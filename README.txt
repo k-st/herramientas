@@ -11,10 +11,13 @@ C++
       
   Assembler:
     /usr/bin/as
+    
   Make Commnad:
     /usr/bin/make
+    
   Debugger Command:
     /usr/bin/gdb
+    
   QMake Command:
     /usr/bin/qmake
   
